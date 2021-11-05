@@ -13,10 +13,11 @@
 
 ```shell
 ├── docs 
-│   ├── about.md     # 关于视觉组的简介
-│   └── index.md	 # 文档首页 
-├── mkdocs.yml		 # mkdocs 配置文件
-└── README.md        # 仓库简介
+│   ├── about-vision-team.md	# 关于视觉组的简介
+│   ├── about-vision.md         # 关于视觉的简介
+│   └── index.md	            # 文档首页 
+├── mkdocs.yml		            # mkdocs 配置文件
+└── README.md                   # 仓库简介
 ```
 
 ## 其他链接
@@ -27,10 +28,37 @@
 本文档仓库：[team-introduction(github.com)](https://github.com/nwpusr-vision-team/team-introduction)
 定位组技术文档仓库：[Learn-SLAM](https://github.com/NWPU-Soccer-Robot-Base-SLAM-Group)
 
-## 贡献
+## 贡献方式
+
+文档使用 [MkDocs](https://github.com/mkdocs/mkdocs) 构建，采用 [material](https://github.com/squidfunk/mkdocs-material) 主题
+
+**如果您是团队内部成员**，您可以通过以下方式进行贡献
+
+```shell
+# 克隆仓库
+git clone https://github.com/nwpusr-vision-team/team-introduction.git 
+
+# 安装 mkdocs 和 material theme
+pip3 install mkdocs
+pip3 install mkdocs-material
+
+# 自建分支并推送
+git checkout -b zs-feat
+# 做一些修改
+.... 
+
+# 本地查看效果
+mkdocs serve # open localhost:8000 in browser
+
+# 确认无误推送到远端并创建Pull Request
+git push origin zs-feat
+```
+
+## 版权声明及排版规范
 
 文档目前由足球机器人基地视觉组成员维护
 
 您可以在这里看到完整的贡献者列表：[team-introduction/contributors](https://github.com/nwpusr-vision-team/team-introduction/graphs/contributors)
 
 本文档遵守此中文文档排版规范：[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
