@@ -1,43 +1,16 @@
-# Tectam Apollineos crescit
+# 什么是计算机视觉？
 
-## Ficta ut aut genus miserabile Plena nec
+计算机视觉（Computer vision）是一门研究如何使机器“看”的科学，更进一步的说，就是指用摄影机和计算机代替人眼对目标进行识别、跟踪和测量等机器视觉，并进一步做图像处理，用计算机处理成为更适合人眼观察或传送给仪器检测的图像[1]。
 
-Lorem markdownum in flammis dubita, pluma Credulitas tactu si denique timido.
-Orsa est, qui neque idemque, nisi hoc Othryn. Sena fretum adspicit adspicit
-Perseus ipse patrios rebus, fortior. Ferro quid quid cornicis!
+作为一門科学学科，计算机视觉研究相关的理论和技术，试图建立能够从图像或者多维数据中获取「信息」的人工智能系统。这里所指的信息指香农定义的，可以用来帮助做一个“决定”的信息。因为感知可以看作是从感官信号中提取信息，所以计算机视觉也可以看作是研究如何使人工系统从图像或多维数据中“感知”的科学。
 
-1. Illo inpedit illud vertitur adsiluit dirusque erat
-2. Humana et anima tamen nectar hirsuti coniuge
-3. Inde detectique praetentaque aquila interea nisi Amphrisia
-4. Repetito est byblis capax est oblivia iacet
-5. Rector auxiliare meritis Troianae vultus trahentem frondescere
+作为一个工程学科，计算机视觉寻求基于相关理论与模型来建立计算机视觉系统。这类系统的组成部分包括：
 
-## Duas Propoetides vellem aeger
+过程控制（例如工业机器人和无人驾驶汽车）
+事件监测（例如图像监测）
+信息组织（例如图像数据库和图像序列的索引建立）
+物体与环境建模（例如工业检查，医学图像分析和拓扑建模）
+交感互动（例如人机互动的输入设备）
+计算机视觉同样可以被看作是生物视觉的一个补充。在生物视觉领域中，人类和各种动物的视觉都得到了研究，从而建立了这些视觉系统感知信息过程中所使用的物理模型。另一方面，在计算机视觉中，靠软件和硬件实现的人工智能系统得到了研究与描述。生物视觉与计算机视觉进行的学科间交流为彼此都带来了巨大价值。
 
-Inpendit urbis. Superest rapitur tua: umeris ingratasque elige et libet et alma.
-Cancro tendimus sanguine nostro, adhuc mora rogavit; dabat tamen.
-
-## Se utro sine Alcmena poterat luminis venenum
-
-Inposuit ferarum sternere crimina fontem diu terribili media. Amor negata numen
-animaque cunctosque vulnus aprica rerumque Drya simus
-[rerum](http://www.est.net/) adhibere fratresque ortus, superbum vox, precor.
-Excipit dat spumas quemque atque, iuvenale ille formatus, pulcherrime nodosa
-terra celebrare evocat *haec concedimus Meleagron*!
-
-## Falsum Cythereia quoque caede in insonuit feralia
-
-Turbinis at per frustra Subaris accipiunt onerata coeuntia Laomedonteis secus
-lunae Hippasus civilibus: tacitus iurgia, obstabat. Tumultus subdita: **tanto
-arida** quondam medius motus, adspiciam data exsiluere dapes vocem et longo.
-Videt referre leni tristia sentit arbor, heros, simul moderamen.
-
-> Sol erile gener nec ipsa, recurrunt et undis, Echo sceptra atque te. Aliud
-> [terram](http://recumbere-ensem.com/plectrumque.aspx) obruit laticem locus
-> diffudit, proque; non meque procul, metu pulvis regnat tectos poplite. Dixit
-> virginitate senex condidit dicentem sustinet et, intorquet concordi virgo
-> cognosse, cum abiit tibi? Urbem est capulo e adesset dextraque periuria
-> dumque?
-
-Secedere saxo gratus, aerane opemque vix ignava inpune dependent habent. Et
-nolis, *suis regna iuvabat* pondere.
+计算机视觉包含如下一些分支：画面重建，事件监测，目标跟踪，目标识别，机器学习，索引建立，图像恢复等。
