@@ -1,5 +1,6 @@
 site_name: 足球机器人基地视觉组简介
 nav:
     - 首页: index.md
-    - 关于计算机视觉: about.md
+    - 视觉组简介: about-vision-team.md
+    - 关于计算机视觉: about-vision.md
 theme: material
