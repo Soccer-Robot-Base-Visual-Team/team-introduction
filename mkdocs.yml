@@ -28,4 +28,4 @@ nav:
 theme: 
     name: material
     features: 
-        - navigation.sections
+        - navigation.expand

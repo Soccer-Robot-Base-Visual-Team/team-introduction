@@ -1,4 +1,4 @@
-# team-introduction
+# nwpusr-vision-team-introduction
 ## 仓库简介
 
 这里是西北工业大学足球机器人基地视觉组简介及教程。
@@ -11,8 +11,15 @@
 
 ## 目录结构
 
+大致结构如下，文章具体对应文件可参考 `index.md` 导览部分：
+
 ```shell
 ├── docs 
+│   ├── opencv                  # OpenCV 部分
+│   ├── traditional-vision      # 传统视觉部分
+│   ├── camera-geometry         # 相机与视图几何部分
+│   ├── deep-learning           # 深度学习部分
+│   ├── images                  # 根目录文档使用的图片
 │   ├── about-vision-team.md	# 关于视觉组的简介
 │   ├── about-vision.md         # 关于视觉的简介
 │   └── index.md	            # 文档首页 
